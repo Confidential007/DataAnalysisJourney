@@ -1,2 +1,4 @@
 # DataAnalysisJourney
-6-month journey to master data analysis, ML, and big data.
+Started my 6-month data analysis journey on April 20, 2025
+
+
